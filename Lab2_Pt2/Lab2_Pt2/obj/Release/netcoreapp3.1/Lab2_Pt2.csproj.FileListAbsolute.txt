@@ -10,3 +10,15 @@ D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\obj\Release\netcoreapp3.1\Lab2_Pt2.csproj.CoreCom
 D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\obj\Release\netcoreapp3.1\Lab2_Pt2.dll
 D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\obj\Release\netcoreapp3.1\Lab2_Pt2.pdb
 D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\obj\Release\netcoreapp3.1\Lab2_Pt2.genruntimeconfig.cache
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\obj\Release\netcoreapp3.1\Lab2_Pt2.AssemblyInfoInputs.cache
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\obj\Release\netcoreapp3.1\Lab2_Pt2.AssemblyInfo.cs
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\obj\Release\netcoreapp3.1\Lab2_Pt2.csproj.CoreCompileInputs.cache
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\obj\Release\netcoreapp3.1\Lab2_Pt2.dll
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\obj\Release\netcoreapp3.1\Lab2_Pt2.pdb
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\bin\Release\netcoreapp3.1\Lab2_Pt2.exe
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\bin\Release\netcoreapp3.1\Lab2_Pt2.deps.json
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\bin\Release\netcoreapp3.1\Lab2_Pt2.runtimeconfig.json
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\bin\Release\netcoreapp3.1\Lab2_Pt2.runtimeconfig.dev.json
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\bin\Release\netcoreapp3.1\Lab2_Pt2.dll
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\bin\Release\netcoreapp3.1\Lab2_Pt2.pdb
+D:\ISP 2\bsuir-isp-2\Lab2_Pt2\Lab2_Pt2\obj\Release\netcoreapp3.1\Lab2_Pt2.genruntimeconfig.cache

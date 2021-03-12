@@ -6,31 +6,37 @@ namespace Lab2_Pt2
 {
     class Program
     {
-        static void setLocale()
+        static bool setLocale(string lang)
         {
-            Console.Write("Выберите язык (ru/en/de/fr/it): ");
-            switch(Console.ReadLine())
+            switch(lang)
             {
                 case "ru":
                     Thread.CurrentThread.CurrentCulture = new CultureInfo("ru-ru");
-                    break;
+                    return true;
                 case "en":
                     Thread.CurrentThread.CurrentCulture = new CultureInfo("en-us");
-                    break;
+                    return true;
                 case "de":
                     Thread.CurrentThread.CurrentCulture = new CultureInfo("de-de");
-                    break;
+                    return true;
                 case "fr":
                     Thread.CurrentThread.CurrentCulture = new CultureInfo("fr-fr");
-                    break;
+                    return true;
                 case "it":
                     Thread.CurrentThread.CurrentCulture = new CultureInfo("it-it");
-                    break;
+                    return true;
+                default:
+                    return false;
             }
         }
         static void Main(string[] args)
         {
-            setLocale();
+            Console.Write("Выберите язык (ru/en/de/fr/it): ");
+            string lang = Console.ReadLine();
+            while (!setLocale(lang)) {
+                Console.Write("Язык не поддерживается, выберите из основных (ru/en/de/fr/it): ");
+                lang = Console.ReadLine();
+            };
             DateTime date = new DateTime(2021, 1, 20);
             for (int i = 0; i < 12; i++)
             {

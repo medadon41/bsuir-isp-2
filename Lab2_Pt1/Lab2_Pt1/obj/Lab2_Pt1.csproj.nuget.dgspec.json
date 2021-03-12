@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Данила\\source\\repos\\Lab2_Pt1\\Lab2_Pt1\\Lab2_Pt1.csproj": {}
+    "D:\\ISP 2\\bsuir-isp-2\\Lab2_Pt1\\Lab2_Pt1\\Lab2_Pt1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Данила\\source\\repos\\Lab2_Pt1\\Lab2_Pt1\\Lab2_Pt1.csproj": {
+    "D:\\ISP 2\\bsuir-isp-2\\Lab2_Pt1\\Lab2_Pt1\\Lab2_Pt1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Данила\\source\\repos\\Lab2_Pt1\\Lab2_Pt1\\Lab2_Pt1.csproj",
+        "projectUniqueName": "D:\\ISP 2\\bsuir-isp-2\\Lab2_Pt1\\Lab2_Pt1\\Lab2_Pt1.csproj",
         "projectName": "Lab2_Pt1",
-        "projectPath": "C:\\Users\\Данила\\source\\repos\\Lab2_Pt1\\Lab2_Pt1\\Lab2_Pt1.csproj",
+        "projectPath": "D:\\ISP 2\\bsuir-isp-2\\Lab2_Pt1\\Lab2_Pt1\\Lab2_Pt1.csproj",
         "packagesPath": "C:\\Users\\Данила\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Данила\\source\\repos\\Lab2_Pt1\\Lab2_Pt1\\obj\\",
+        "outputPath": "D:\\ISP 2\\bsuir-isp-2\\Lab2_Pt1\\Lab2_Pt1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Данила\\AppData\\Roaming\\NuGet\\NuGet.Config",
