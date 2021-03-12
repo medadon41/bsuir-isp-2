@@ -1,0 +1,12 @@
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\bin\Debug\netcoreapp3.1\Lab2_Pt2.exe
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\bin\Debug\netcoreapp3.1\Lab2_Pt2.deps.json
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\bin\Debug\netcoreapp3.1\Lab2_Pt2.runtimeconfig.json
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\bin\Debug\netcoreapp3.1\Lab2_Pt2.runtimeconfig.dev.json
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\bin\Debug\netcoreapp3.1\Lab2_Pt2.dll
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\bin\Debug\netcoreapp3.1\Lab2_Pt2.pdb
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\obj\Debug\netcoreapp3.1\Lab2_Pt2.AssemblyInfoInputs.cache
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\obj\Debug\netcoreapp3.1\Lab2_Pt2.AssemblyInfo.cs
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\obj\Debug\netcoreapp3.1\Lab2_Pt2.csproj.CoreCompileInputs.cache
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\obj\Debug\netcoreapp3.1\Lab2_Pt2.dll
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\obj\Debug\netcoreapp3.1\Lab2_Pt2.pdb
+D:\GIT ISP 2\Lab2_Pt2\Lab2_Pt2\obj\Debug\netcoreapp3.1\Lab2_Pt2.genruntimeconfig.cache

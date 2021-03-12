@@ -1,0 +1,13 @@
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\bin\Debug\netcoreapp3.1\Lab2_Pt1.exe
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\bin\Debug\netcoreapp3.1\Lab2_Pt1.deps.json
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\bin\Debug\netcoreapp3.1\Lab2_Pt1.runtimeconfig.json
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\bin\Debug\netcoreapp3.1\Lab2_Pt1.runtimeconfig.dev.json
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\bin\Debug\netcoreapp3.1\Lab2_Pt1.dll
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\bin\Debug\netcoreapp3.1\Lab2_Pt1.pdb
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\obj\Debug\netcoreapp3.1\Lab2_Pt1.csprojAssemblyReference.cache
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\obj\Debug\netcoreapp3.1\Lab2_Pt1.AssemblyInfoInputs.cache
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\obj\Debug\netcoreapp3.1\Lab2_Pt1.AssemblyInfo.cs
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\obj\Debug\netcoreapp3.1\Lab2_Pt1.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\obj\Debug\netcoreapp3.1\Lab2_Pt1.dll
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\obj\Debug\netcoreapp3.1\Lab2_Pt1.pdb
+C:\Users\Данила\source\repos\Lab2_Pt1\Lab2_Pt1\obj\Debug\netcoreapp3.1\Lab2_Pt1.genruntimeconfig.cache
